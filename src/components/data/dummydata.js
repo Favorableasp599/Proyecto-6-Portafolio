@@ -44,8 +44,8 @@ export const home = [
 ];
 export const about = [
   {
-    desc: "",
-    desc1: "",
+    desc:
+      "Mi nombre es Gibran Cambron Garrido naci en la ciudad de mexico y como un graduado de la Universidad del Valle de Mexico, con un título de en ingeniería Mecatronica, he realizado prácticas y trabajos en diferentes sectores de la comuninad industrial , comunidad mercantil y hotelera como la cadena de hoteles grupo posadas y en la industria de la cerveza grupo modelo. Estos puestos no solo me han permitido desarrollar experiencia en diferentes campos, sino también un número de habilidades valiosas en diferentes sectores. Durante mi tiempo de estudio siempre me llamo la atencion la programacion y su mundo de ahí el porque empeze a volver a estudiar y completar un bootcamp sobre ser desarrollador Full-Stack",
     cover: "./images/man.png",
   },
 ];
@@ -131,18 +131,16 @@ export const portfolio = [
 export const contact = [
   {
     icon: <AddLocationAltOutlined />,
-    text1: "2651 Main Street, Suit 124",
-    text2: "Seattle, WA, 98101",
+    text1: "Vergel de Coyoacán, Tlalpan,",
+    text2: "Ciudad de México, CDMX",
   },
   {
     icon: <PhoneIphone />,
-    text1: "0123456789",
-    text2: "0345627891",
+    text1: "55-86-17-17-06",
   },
   {
     icon: <EmailOutlined />,
-    text1: "hello@thetheme.io",
-    text2: "inf0@brex-theme.io",
+    text1: "gibrangc10@gmail.com",
   },
 ];
 export const social = [

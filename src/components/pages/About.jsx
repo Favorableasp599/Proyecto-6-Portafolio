@@ -15,8 +15,9 @@ export const About = () => {
               <Heading title='Acerca de mí' />
               <p>{val.desc}</p>
               <p>{val.desc1}</p>
-              <button>Descargar currículum</button>
-              <button className='primaryBtn'>Descargar currículum</button>
+              <a href="https://drive.google.com/file/d/1c_MQJlIOO3SrhVK7DUP280Zk0Zqqaftc/view?usp=sharing" download>
+                <button>Descargar currículum</button>
+              </a>
             </div>
           </React.Fragment>
         ))}
