@@ -44,8 +44,7 @@ export const home = [
 ];
 export const about = [
   {
-    desc:
-      "Mi nombre es Gibran Cambron Garrido naci en la ciudad de mexico y como un graduado de la Universidad del Valle de Mexico, con un título de en ingeniería Mecatronica, he realizado prácticas y trabajos en diferentes sectores de la comuninad industrial , comunidad mercantil y hotelera como la cadena de hoteles grupo posadas y en la industria de la cerveza grupo modelo. Estos puestos no solo me han permitido desarrollar experiencia en diferentes campos, sino también un número de habilidades valiosas en diferentes sectores. Durante mi tiempo de estudio siempre me llamo la atencion la programacion y su mundo de ahí el porque empeze a volver a estudiar y completar un bootcamp sobre ser desarrollador Full-Stack",
+    desc: "Mi nombre es Gibran Cambron Garrido naci en la ciudad de mexico y como un graduado de la Universidad del Valle de Mexico, con un título de en ingeniería Mecatronica, he realizado prácticas y trabajos en diferentes sectores de la comuninad industrial , comunidad mercantil y hotelera como la cadena de hoteles grupo posadas y en la industria de la cerveza grupo modelo. Estos puestos no solo me han permitido desarrollar experiencia en diferentes campos, sino también un número de habilidades valiosas en diferentes sectores. Durante mi tiempo de estudio siempre me llamo la atencion la programacion y su mundo de ahí el porque empeze a volver a estudiar y completar un bootcamp sobre ser desarrollador Full-Stack",
     cover: "./images/man.png",
   },
 ];
@@ -74,36 +73,36 @@ export const portfolio = [
   {
     id: 1,
     cover: "../images/port/port1.jpg",
-    name: "Brand",
-    category: "marketing",
-    title: "Brex Logo",
+    name: "Proyecto-1",
+    category: "desing",
+    title: "Primera Pagina Web",
     githubLink: "https://github.com/Favorableasp599/PROYECTO_1",
     link: "https://lucky-rabanadas-d3bfa3.netlify.app",
   },
   {
     id: 2,
     cover: "../images/port/port2.jpg",
-    name: "Brand",
-    category: "design",
-    title: "Brex Logo",
+    name: "Proyecto-2",
+    category: "development",
+    title: "CRUD",
     githubLink: "https://github.com/Favorableasp599/PROYECTO-2-Aplicacion-CRUD",
     link: "https://dynamic-centaur-180699.netlify.app",
   },
   {
     id: 3,
     cover: "../images/port/port3.jpg",
-    name: "Brand",
+    name: "Proyecto-3",
     category: "development",
-    title: "Brex Logo",
+    title: "Dashboard",
     githubLink: "https://github.com/Favorableasp599/Proyecto-3-Dashboard",
     link: "https://tranquil-macaron-d430fe.netlify.app/",
   },
   {
     id: 4,
     cover: "../images/port/port4.jpg",
-    name: "Brand",
+    name: "Proyecto-4",
     category: "marketing",
-    title: "Brex Logo",
+    title: "Aplicacion Restaurante",
     githubLink:
       "https://github.com/Favorableasp599/PROYECTO-4-Aplicaci-n-Restaurante-",
     link: "https://Favorableasp599.github.io/PROYECTO-4-Aplicaci-n-Restaurante-",
@@ -111,9 +110,9 @@ export const portfolio = [
   {
     id: 5,
     cover: "../images/port/port5.jpg",
-    name: "Brand",
-    category: "design",
-    title: "Brex Logo",
+    name: "Proyecto-5",
+    category: "marketing",
+    title: "Ecommerce App",
     githubLink:
       "https://github.com/Favorableasp599/PROYECTO-5-Aplicacion-de-Comercio-Electronico",
     link: "https://witty-ruby-alligator.cyclic.app",
@@ -121,9 +120,9 @@ export const portfolio = [
   {
     id: 6,
     cover: "../images/port/port6.jpg",
-    name: "Brand",
-    category: "development",
-    title: "Brex Logo",
+    name: "Proyecto-6",
+    category: "design",
+    title: "Portafolio",
     githubLink: "https://github.com/Favorableasp599/Proyecto-6-Portafolio",
     link: "https://aquamarine-hamster-cd0c78.netlify.app",
   },
@@ -146,14 +145,18 @@ export const contact = [
 export const social = [
   {
     icon: <Facebook />,
+    link: "https://www.facebook.com/gibran.cambron/",
   },
   {
     icon: <Twitter />,
+    link: " https://twitter.com/Favorable_XP",
   },
   {
     icon: <Instagram />,
+    link: "https://www.instagram.com/camgibran/",
   },
   {
     icon: <YouTube />,
+    link: "https://www.youtube.com/channel/UCpQRxp_aGw5dRm_lqidnUgQ",
   },
 ];
