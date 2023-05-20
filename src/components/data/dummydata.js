@@ -125,7 +125,7 @@ export const portfolio = [
     category: "development",
     title: "Brex Logo",
     githubLink: "https://github.com/Favorableasp599/Proyecto-6-Portafolio",
-    link: "https://dulcet-cocada-868247.netlify.app/",
+    link: "https://aquamarine-hamster-cd0c78.netlify.app",
   },
 ];
 export const contact = [
